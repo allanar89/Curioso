@@ -1,4 +1,4 @@
 # Curioso
-App to spy critical info on smartphones.
-Finished on June 6, 2017 9:31:49 PM
-Made by Slam, to all these people who cares about the info o wants to reveal a cheater.
+Application to spy on critical information on smartphones. 
+Completed on June 6, 2017 at 21:31:49 Made by Slam, all these people who care if they are vulnerable to losing your personal information or reveal a deception by your partner.
+I am not responsible for the use they may give you.
